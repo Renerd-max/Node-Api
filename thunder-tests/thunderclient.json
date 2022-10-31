@@ -1,0 +1,97 @@
+[
+  {
+    "_id": "914a2327-ea8f-46e4-9492-642b9e0ab16e",
+    "colId": "7cf4c800-7b1b-4254-aeb8-1e20db4a5dd1",
+    "containerId": "",
+    "name": "http://localhost:3500/employees",
+    "url": "http://localhost:3500/employees",
+    "method": "PUT",
+    "sortNum": 10000,
+    "created": "2022-10-31T17:20:21.849Z",
+    "modified": "2022-10-31T17:20:21.849Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\"id\": 1, \"firstname\": \"Renerd\", \"lastname\": \"Liam\"}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "a10b9d9d-8a82-4922-adad-785a74cc1f83",
+    "colId": "7cf4c800-7b1b-4254-aeb8-1e20db4a5dd1",
+    "containerId": "",
+    "name": "http://localhost:3500/employees",
+    "url": "http://localhost:3500/employees",
+    "method": "GET",
+    "sortNum": 20000,
+    "created": "2022-10-31T17:20:44.491Z",
+    "modified": "2022-10-31T17:20:44.491Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\"id\": 2}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "0609cd21-9021-4af5-ad83-1b7ab09bf173",
+    "colId": "7cf4c800-7b1b-4254-aeb8-1e20db4a5dd1",
+    "containerId": "",
+    "name": "http://localhost:3500/employees",
+    "url": "http://localhost:3500/employees",
+    "method": "DELETE",
+    "sortNum": 30000,
+    "created": "2022-10-31T17:20:59.711Z",
+    "modified": "2022-10-31T17:20:59.711Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\"id\": 2}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "669af74a-eb11-49ab-9cb0-360b6c11ed30",
+    "colId": "7cf4c800-7b1b-4254-aeb8-1e20db4a5dd1",
+    "containerId": "",
+    "name": "http://localhost:3500",
+    "url": "http://localhost:3500/employees",
+    "method": "GET",
+    "sortNum": 40000,
+    "created": "2022-10-31T17:21:10.194Z",
+    "modified": "2022-10-31T17:23:20.201Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\"id\": 2}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "7293d382-4b98-46a0-a744-0dbff03aed18",
+    "colId": "7cf4c800-7b1b-4254-aeb8-1e20db4a5dd1",
+    "containerId": "",
+    "name": "http://localhost:3500/employees",
+    "url": "http://localhost:3500/employees",
+    "method": "POST",
+    "sortNum": 50000,
+    "created": "2022-10-31T17:21:37.427Z",
+    "modified": "2022-10-31T17:21:37.427Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\"id\": 2, \"firstname\": \"Renerd\", \"lastname\": \"Liam\"}",
+      "form": []
+    },
+    "tests": []
+  }
+]

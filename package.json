@@ -1,13 +1,13 @@
 {
-  "name": "08tut",
+  "name": "mvc-rest-api",
   "version": "1.0.0",
-  "description": "Express tutorial",
+  "description": "MVC REST API tutorial",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Dave Gray",
+  "author": "Renerd Liam",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",

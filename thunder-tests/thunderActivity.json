@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "14c67a97-ac5f-4937-bd82-8f449d8d8d78",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3500/employees",
+    "url": "http://localhost:3500/employees",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-10-31T13:56:48.926Z",
+    "modified": "2022-10-31T15:30:16.530Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\"id\": 2, \"firstname\": \"Renerd\", \"lastname\": \"Liam\"}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "687732b9-dce7-4c8e-902f-776654b71d59",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3500/employees",
+    "url": "http://localhost:3500/employees",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-10-31T13:57:23.495Z",
+    "modified": "2022-10-31T15:31:17.920Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\"id\": 2}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "2a459548-ed22-4665-ad62-f32a9194a2f7",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3500/employees",
+    "url": "http://localhost:3500/employees",
+    "method": "PUT",
+    "sortNum": 0,
+    "created": "2022-10-31T14:04:50.133Z",
+    "modified": "2022-10-31T15:32:09.193Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\"id\": 1, \"firstname\": \"Renerd\", \"lastname\": \"Liam\"}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "2cfc6115-c56f-4fd8-a97d-4ea1630e9d1c",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3500/employees",
+    "url": "http://localhost:3500/employees",
+    "method": "DELETE",
+    "sortNum": 0,
+    "created": "2022-10-31T14:06:12.058Z",
+    "modified": "2022-10-31T15:30:41.406Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\"id\": 2}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "9874be84-d852-48b3-894c-03950e853f39",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3500",
+    "url": "http://localhost:3500/employees/2",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-10-31T14:20:43.165Z",
+    "modified": "2022-10-31T17:27:26.650Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
